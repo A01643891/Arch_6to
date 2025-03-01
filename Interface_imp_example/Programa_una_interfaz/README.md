@@ -10,3 +10,4 @@ Finalmente, los niveles específicos que extiendad a la clase Level no necesitan
 
 A continuación la imágen del diagrama uml:
 
+![Diagrama UML](https://github.com/user-attachments/assets/4095f714-ee3c-48f2-9903-f1952030b663)
